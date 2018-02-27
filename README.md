@@ -53,6 +53,7 @@ You can check the file shipped within this project
 ## Usage
 
 Go to glyphicons.com, on the main page, look for the icon you want, click on it to get the code and paste it in the span class attribute, and **DON'T FORGET TO REMOVE THE TRAILING S OF GLYPHICONS**
+
     &lt;span class="glyphicon glyphicon-train" aria-hidden="true"&gt;&lt;/span&gt;
 
 ## How did I generated the _glyphicons-pro.scss
