@@ -42,13 +42,13 @@ I took the orignale files and made some modification with a comment like the fol
        
   You can check the file shipped within this project
    
-    /client/bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variable.scss
+    src/bootstrap-sass/assets/stylesheets/bootstrap/_variable.scss
        
 5. edit _bootstrap.scss to change the import from */glyphicons"* to */glyphicons-pro"*
 
 You can check the file shipped within this project
        
-    /client/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss
+    src/bootstrap-sass/assets/stylesheets/_bootstrap.scss
 
 
 ## How did I generated the _glyphicons-pro.scss
